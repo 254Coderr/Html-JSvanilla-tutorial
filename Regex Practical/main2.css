@@ -1,0 +1,30 @@
+html{
+    font: 24px
+}
+body{
+    background-color: aqua;
+    color: black;
+}
+a{
+    color:#af2598
+}
+a:visited {
+color:rgb(150, 31, 31)
+}
+a:hover, a:active{
+    color:rgb(231, 146, 34)
+}
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+  }
+table {
+    border-collapse: collapse;
+}
+phoneFormat{
+    display:none;
+    text-align:center;
+    font-size:0.75rem;
+    .block{display:block}
+    .invalid{color:rgb(236, 45, 19)}
+}75
