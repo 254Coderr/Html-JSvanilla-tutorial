@@ -18,11 +18,13 @@ a:hover, a:active{
     color:rgb(231, 146, 34)
 }
 td, th {
-    border: 1px solid #999;
-    padding: 0.5rem;
+  width: 50%;  
+  border: 1px solid #999;
+  padding: 0.5rem;
   }
 table {
-    border-collapse: collapse;
+  width: 100%; 
+  border-collapse: separate;
 }
 input[type="text"]{
 width: 150px;
