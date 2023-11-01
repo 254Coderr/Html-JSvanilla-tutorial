@@ -35,7 +35,7 @@ const myArrray=["eat","sleep","code"];
  posts.forEach(post => {
     console.log(post);
  })
- console.clear();
+ //console.clear();
  const filteredPosts=posts.filter(posts=>{
    return posts.userId===1
  });
